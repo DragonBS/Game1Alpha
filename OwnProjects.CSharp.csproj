@@ -71,6 +71,7 @@
   <ItemGroup>
     <Compile Include="Assets\Scripts\Camera\CameraControl.cs" />
     <Compile Include="Assets\Scripts\Main Menu\ChangeSprite.cs" />
+    <Compile Include="Assets\Scripts\Main Menu\ChooseTank.cs" />
     <Compile Include="Assets\Scripts\Main Menu\GamePause.cs" />
     <Compile Include="Assets\Scripts\Main Menu\GameResume.cs" />
     <Compile Include="Assets\Scripts\Main Menu\LoadScene.cs" />
